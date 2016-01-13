@@ -6,6 +6,7 @@ dislikes = list()
 likes.append("Bacon")
 likes.append("Cheese")
 likes.append("Halo")
+likes.append("TEA!")
 
 # update my dislikes list
 dislikes.append("Smelly feet")
